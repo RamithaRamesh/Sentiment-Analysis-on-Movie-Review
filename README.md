@@ -1,7 +1,8 @@
 IMDB Sentiment Analysis using Machine Learning and Deep Learning
 
 
-Overview
+Overview:
+
 This project performs sentiment analysis on movie reviews using the IMDB 50K dataset.
 The goal is to classify movie reviews as positive or negative using both traditional machine learning models and deep learning architectures.
 
@@ -15,7 +16,8 @@ Dataset details:
 Feature	Description, Review	Movie review text, Sentiment	Positive / Negative
 Dataset is downloaded using Kaggle API and extracted.
 
-Models Used
+Models Used:
+
 1 Logistic Regression
 2 Naive Bayes
 3 Support Vector Machine
@@ -24,9 +26,11 @@ Models Used
 6 CNN for Text
 
 Models are evaluated using:
+
 Accuracy, Precision, Recall, F1 Score
 
-Libraries Used
+Libraries Used:
+
 numpy
 pandas
 nltk
@@ -34,7 +38,8 @@ scikit-learn
 tensorflow / keras
 matplotlib
 
-How to Run
+How to Run:
+
 1 Install dependencies
 pip install numpy pandas nltk scikit-learn tensorflow
 2 Download Kaggle dataset
@@ -42,6 +47,7 @@ Upload Kaggle API key.
 3 Run notebook
 Run all cells in Google Colab
 
-Applications
+Applications:
+
 This project can be used for:
 Movie review sentiment analysis, Product review classification, Social media sentiment analysis, Opinion mining
