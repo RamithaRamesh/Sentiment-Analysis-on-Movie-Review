@@ -42,8 +42,4 @@ Run all cells in Google Colab
 
 Applications
 This project can be used for:
-Movie review sentiment analysis, Product review classification
-
-Social media sentiment analysis
-
-Opinion mining
+Movie review sentiment analysis, Product review classification, Social media sentiment analysis, Opinion mining
